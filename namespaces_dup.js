@@ -4,6 +4,13 @@ var namespaces_dup =
     [ "activations", "d5/d39/namespaceactivations.html", null ],
     [ "aystar_search", "db/ddc/namespaceaystar__search.html", null ],
     [ "backtracking", "db/dc0/namespacebacktracking.html", [
+      [ "magic_sequence", null, [
+        [ "sequence_t", "d7/d37/magic__sequence_8cpp.html#adeeca4f6f79e86923194ea51c26b37d0", null ],
+        [ "filtering", "d7/d37/magic__sequence_8cpp.html#a74a6a4a80fc2387a0c9c78d5ea18ae49", null ],
+        [ "is_magic", "d7/d37/magic__sequence_8cpp.html#afb1d9a25b782af31be4fc0802c7706b8", null ],
+        [ "print", "d7/d37/magic__sequence_8cpp.html#a537c6003094821f14bd93e5cfc2c32d9", null ],
+        [ "solve", "d7/d37/magic__sequence_8cpp.html#ab65c99bf555abf67525d91ffa405d5ad", null ]
+      ] ],
       [ "n_queens", null, [
         [ "isSafe", "d4/d3e/n__queens_8cpp.html#a5730b6683f6adcf5c5ef75cf53dc7160", null ],
         [ "printSolution", "d4/d3e/n__queens_8cpp.html#a40ae0c7fd04eb20e7f3bff13fc6a5808", null ],
@@ -21,6 +28,9 @@ var namespaces_dup =
       ] ],
       [ "rat_maze", null, [
         [ "solveMaze", "dc/d5a/rat__maze_8cpp.html#ab99107bfb4c6934cd4691868c66c0aa3", null ]
+      ] ],
+      [ "subset_sum", null, [
+        [ "number_of_subsets", "d2/d5a/subset__sum_8cpp.html#a7cb50d36a59427a33f64a266dac83d99", null ]
       ] ],
       [ "graphColoring", "db/dc0/namespacebacktracking.html#a29360ddb1bad75caa61ec895b6e71986", null ],
       [ "isPossible", "db/dc0/namespacebacktracking.html#a80af16e57cfb6aaab2bf1da4c4db3308", null ],
@@ -91,6 +101,7 @@ var namespaces_dup =
     [ "heavy_light_decomposition", "db/d6f/namespaceheavy__light__decomposition.html", null ],
     [ "horspool", "d5/d02/namespacehorspool.html", null ],
     [ "house_robber", "d2/de1/namespacehouse__robber.html", null ],
+    [ "inorder_successor_of_bst", "dd/d74/namespaceinorder__successor__of__bst.html", null ],
     [ "inversion", "d9/d13/namespaceinversion.html", null ],
     [ "is_graph_bipartite", "de/d83/namespaceis__graph__bipartite.html", null ],
     [ "iterative_tree_traversals", "dd/d73/namespaceiterative__tree__traversals.html", null ],
@@ -104,6 +115,7 @@ var namespaces_dup =
     [ "linked_list", "d3/db0/namespacelinked__list.html", null ],
     [ "list_array", "d9/d27/namespacelist__array.html", null ],
     [ "machine_learning", "d8/d77/namespacemachine__learning.html", "d8/d77/namespacemachine__learning" ],
+    [ "magic_sequence", "d8/d93/namespacemagic__sequence.html", null ],
     [ "math", "dd/d47/namespacemath.html", "dd/d47/namespacemath" ],
     [ "median_search", "da/dd4/namespacemedian__search.html", null ],
     [ "merge_insertion", "de/d0a/namespacemerge__insertion.html", null ],
@@ -174,6 +186,9 @@ var namespaces_dup =
       [ "strand", null, [
         [ "strand_sort", "dc/dd9/strand__sort_8cpp.html#ad75dc6a599ecfe31dadfaf449ee565f6", null ]
       ] ],
+      [ "wave_sort", null, [
+        [ "waveSort", "db/d3f/wave__sort_8cpp.html#aa3e61ec7fbcf7f9b52de306e6dd6a41c", null ]
+      ] ],
       [ "wiggle_sort", null, [
         [ "wiggleSort", "d1/dcc/wiggle__sort_8cpp.html#a52955ecf8669ff6c5b9b1e66bd7db41d", null ]
       ] ],
@@ -216,12 +231,14 @@ var namespaces_dup =
     ] ],
     [ "strings", "df/dcb/namespacestrings.html", null ],
     [ "sublist_search", "d9/def/namespacesublist__search.html", null ],
+    [ "Subsets", "de/d95/namespace_subsets.html", null ],
     [ "tree_234", "d6/dab/namespacetree__234.html", null ],
     [ "trie_operations", "df/d8e/namespacetrie__operations.html", null ],
     [ "trie_using_hashmap", "d7/d0a/namespacetrie__using__hashmap.html", null ],
     [ "util_functions", "d3/d17/namespaceutil__functions.html", null ],
     [ "vector_cross", "d4/d91/namespacevector__cross.html", null ],
     [ "vigenere", "d6/da2/namespacevigenere.html", null ],
+    [ "wave_sort", "d9/d21/namespacewave__sort.html", null ],
     [ "wiggle_sort", "d0/d52/namespacewiggle__sort.html", null ],
     [ "word_break", "d6/d53/namespaceword__break.html", null ],
     [ "XOR", "d7/d47/namespace_x_o_r.html", null ]
